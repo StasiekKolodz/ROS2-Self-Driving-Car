@@ -20,6 +20,10 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            "video_recorder=prius_sdk_pkg.video_recorder:main",
+            "driving_node=prius_sdk_pkg.driving_node:main",
+            "computer_vision_node=prius_sdk_pkg.computer_vision_node:main",
+            "sdf_spawner=prius_sdk_pkg.sdf_spawner:main",
         ],
     },
 )

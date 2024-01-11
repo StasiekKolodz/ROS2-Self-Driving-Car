@@ -1,0 +1,8 @@
+{
+    "ros.distro": "humble",
+    "python.autoComplete.extraPaths": [
+        "/home/stas/Kursy/ROS2_self_driving_car_Udemy_Course/ROS2-Self-Driving-Car/self_driving_car_ws/install/prius_sdk_pkg/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
